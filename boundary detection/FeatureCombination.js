@@ -79,6 +79,7 @@ function FeatureCombination(BrGm,Ort,w,h)
 		
 	}
 	m=0;
+	///////////////////////////
     for(i=0;i<h;i++)
 	{
 		for(j=0;j<w;j++)
